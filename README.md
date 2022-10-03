@@ -46,4 +46,18 @@ Para resolver las asignaciones se podrán tomar en cuenta distintos tipos de dat
     
 ```
 
+# Uso del programa.
+
+Cada que el programa se inicia, llama el contenido del archivo _instructions.txt_ y lo carga dentro del contenedor de 
+texto dentro del programa.
+
+## Botones
+El botón OK guarda el contenido de la caja de texto dentro del archivo .txt con nombre _instructions_.
+
+El botón Analizar manda el contenido de la caja de texto a revisión del autómata, indiferente del resultado mostrará una
+ventana emergente con el resultado del análisis.
+
+Se puede salir del programa presionando el botón _Salir_ o simplemente cerrando la ventana como lo haría con cualquier otro programa
+
+
 </div>
